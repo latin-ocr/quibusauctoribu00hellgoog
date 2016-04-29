@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quibusauctoribu00hellgoog_0069.png"; bbox 0 0 3144 4826; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 419 2209 1164 2278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 419 2209 1164 2278">
+     <span class='ocr_line' id='line_1_1' title="bbox 419 2209 1164 2278; baseline 0.008 -7"><span class='ocrx_word' id='word_1_1' title='bbox 419 2209 1164 2278; x_wconf 36' lang='lat' dir='ltr'>am„-*fflm-s</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 438 2298 1142 2354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 438 2298 1142 2354">
+     <span class='ocr_line' id='line_1_2' title="bbox 438 2298 1142 2354; baseline 0.006 -10"><span class='ocrx_word' id='word_1_2' title='bbox 438 2299 520 2345; x_wconf 72' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_3' title='bbox 535 2311 582 2346; x_wconf 81' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_4' title='bbox 597 2300 624 2346; x_wconf 77' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_5' title='bbox 638 2301 705 2346; x_wconf 68' lang='lat' dir='ltr'>Znhn</span> <span class='ocrx_word' id='word_1_6' title='bbox 720 2298 785 2346; x_wconf 66' lang='lat'><strong>⁸111.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 800 2301 913 2354; x_wconf 72' lang='grc' dir='ltr'>Βιοιιᾱοὶ,</span> <span class='ocrx_word' id='word_1_8' title='bbox 929 2303 1061 2348; x_wconf 72' lang='lat' dir='ltr'><strong>Kirohhaln</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1074 2303 1142 2350; x_wconf 57' lang='lat' dir='ltr'>Nata.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 2379 1164 2448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 418 2379 1164 2448">
+     <span class='ocr_line' id='line_1_3' title="bbox 418 2379 1164 2448; baseline 0.011 -20"><span class='ocrx_word' id='word_1_10' title='bbox 418 2379 1164 2448; x_wconf 35' lang='lat' dir='ltr'>r-—ww-—ffe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1576 4826">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1576 4826">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1576 4826; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1576 4826; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
